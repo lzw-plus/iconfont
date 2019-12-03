@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <div class="div1 iconhangzhengchufa">&#xe611;</div>
+    <div class="div1 iconfont iconhangzhengchufa">&#xe611;</div>
   </div>
 </template>
 
